@@ -1,16 +1,16 @@
 {
     "name": "VJ-AutoCaption-Bot",
-    "description": "Auto Caption BoT V1 @KingVJ01",
-    "logo": "https://graph.org/file/a3a93ffb7283578499cce.jpg",
+    "description": "Auto Caption BoT V1 @SGBACKUP",
+    "logo": "https://telegra.ph/file/3c65c2642f4339a8d3caa.jpg",
     "keywords": [
         "Private",
         "Auto",
         "Caption",
         "Bot"
     ],
-    "website": "https://youtube.com/@Tech_VJ",
-    "repository": "https://github.com/VJBots/VJ-AutoCaption-Bot",
-    "success_url": "https://youtube.com/@Tech_VJ",
+    "website": "https://t.me/sgbackup",
+    "repository": "https://t.me/sgbackup",
+    "success_url": "https://t.me/sgbackup",
     "env": {
         "app_id": {
             "description": "Your APP ID From my.telegram.org",
